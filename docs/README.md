@@ -6,9 +6,9 @@ Verified printable mounting & drill templates for selected Ruijie access points.
 
 | Model         | Description                    | Template Status |
 |---------------|--------------------------------|------------------|
-| RG-AP820-L(V2) | Ceiling Mount Indoor AP        | ✅ Complete      |
-| RG-AP680-L    | Outdoor AP                      | ✅ Complete      |
-| RG-AP840-L    | High-Performance Indoor AP     | ⏳ In Progress   |
+| RG-AP820-L(V2) | Ceiling Mount Indoor AP       | ✅ Complete      |
+| RG-AP680-L    | Outdoor AP                     | ✅ Complete      |
+| RG-AP840-L    | High-Performance Indoor AP     | ✅ Complete      |
 | RG-AP180      | Wall Plate AP                  | ✅ Complete      |
 
 ## 📂 Folder Structure
