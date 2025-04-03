@@ -51,7 +51,7 @@ Ruijie has responded and confirmed:
 📌 This repo will be updated as more models are verified
 
 ### 📸 Official Drawing from Ruijie:
-![RG-AP820-L(V2) Official Drill Spacing](templates/RG-AP820-L(V2)/RG-AP820-LV2_Official_DrillSpacing_53mm.png)
+![RG-AP820-L(V2) Official Drill Spacing](https://github.com/deadboy18/ruijie-ap-mounting-templates/raw/main/templates/RG-AP820-L%28V2%29/RG-AP820-LV2_Official_DrillSpacing_53mm.png)
 
 ---
 
