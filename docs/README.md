@@ -16,6 +16,7 @@ Verified printable mounting & drill templates for selected Ruijie access points.
 - `templates/` – Ready-to-print PDF templates per AP model
 - `editable/` – Optional editable formats
 - `docs/` – Instructions & notes
+- `images/` – Reference drawings & confirmations
 
 ## 🖨️ Printing Notes
 
@@ -35,13 +36,23 @@ Verified printable mounting & drill templates for selected Ruijie access points.
 
 ## ⚠️ Note on Official Documentation
 
-The official Ruijie documentation (both printed manual and online: [ruijienetworks.com](https://www.ruijienetworks.com/support/documents/slide_76367/#_Toc184226047)) lists the drill spacing for the RG-AP820-L(V2) ceiling mount bracket as **26.5mm center-to-center**.
+The official Ruijie documentation (both printed manual and online: [ruijienetworks.com](https://www.ruijienetworks.com/support/documents/slide_76367/#_Toc184226047)) listed the drill spacing for the RG-AP820-L(V2) ceiling mount bracket as **26.5mm center-to-center**.
 
-However, based on physical measurements from actual brackets included in the product box, I found the correct spacing to be approximately **55mm center-to-center**.
+However, based on physical measurements from actual brackets included in the product box, I originally found the correct spacing to be **55mm center-to-center**. This was later confirmed by Ruijie's RD team to be **53mm**, and they acknowledged the error in their published documents.
 
-This template reflects the corrected measurements to ensure successful mounting.
+---
 
-I've not checked the other models yet, but they might have the same issue or might not. This repo and template are made just to make it easier to drill on the ceiling and mount quickly and accurately.
+## 📬 Update from Ruijie (as of 2025-04-03)
+
+Ruijie has officially confirmed the correct spacing for **RG-AP820-L(V2)** is **53mm center-to-center**.  
+They mentioned that the manual will be updated soon and are in the process of verifying the rest of the AP models.
+
+✅ Official response received via email from Ruijie support  
+📩 Ongoing confirmation for RG-AP680-L, RG-AP840-L, and RG-AP180  
+📌 Templates will be updated accordingly once new data is received
+
+### 📸 Official Drawing from Ruijie:
+![RG-AP820-L Official Drill Spacing](images/RG-AP820-LV2_Official_DrillSpacing_53mm.png)
 
 ---
 
