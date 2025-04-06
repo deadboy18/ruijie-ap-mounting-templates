@@ -6,3 +6,4 @@ This AP is designed to mount directly to a standard 86mm wall box.
   - Drill 2 holes, 60mm apart (center-to-center, horizontal)
   - 86mm dashed box outline for visual clearance
   - Print at 100% scale
+  - The screw length standard is 25 or 40mm, and both sizes can be used. This is the information given by Ruijie Customer Service.
